@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> gird</title>
+	<link rel="stylesheet" type="text/css" href="grid.css">
+</head>
+<body>
+	<!--<div>
+		<p>  this is me as para</p>
+		<li> this me as li</li>
+		<span> this me as span 
+			<strong> this is me as strong</strong>
+			</span>
+	</div>
+
+	<div class="box">
+		<h1> its me first div</h1>
+		<div class="box2">
+			<h2> Its me second div</h2>
+		</div>
+	</div>--->
+
+	<div>
+		<p>1234567</p>
+		<p>1234567</p>
+		<p> THE AVERGERS</p>
+		<span> 
+			<p>  qwerty qwerty qwerty </p> 
+		</span>
+	</div>
+
+	<p>1234567</p>
+		<p>1234567</p>
+		<p> THE AVERGERS</p>
+
+
+</body>
+</html>
