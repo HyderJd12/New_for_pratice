@@ -1,0 +1,43 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="module">
+import RefreshRuntime from "/@react-refresh"
+RefreshRuntime.injectIntoGlobalHook(window)
+window.$RefreshReg$ = () => {}
+window.$RefreshSig$ = () => (type) => type
+window.__vite_plugin_react_preamble_installed__ = true
+</script>
+
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
+
+.contanier
+{
+  background-color: #ff1123;
+  width: 1200px;
+  height: 80px;
+  border-radius: 10px;
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+button
+{
+  margin: 10px;
+  background-color: #aab333;
+  width: 120px;
+  height: 40px;
+  border-radius: 20px;
+}
